@@ -1,0 +1,15 @@
+site_name: testing-confluence-action
+site_description: Documentation and content 
+site_url: https://backstage.com/docs/testing-confluence-action
+copyright: Copyright © 2021
+theme:
+  name: material
+markdown_extensions:
+  - toc:
+      permalink: "#"
+  - def_list
+  - admonition
+  - codehilite
+  - sane_lists
+nav:
+  - Home: index.md
